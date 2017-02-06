@@ -1,0 +1,19 @@
+{Here comes "Welcome"
+Greetings wanderer, choose what you want to do
+case 1 1.Turn right
+case 2 2.Turn left}
+if case 1 {You are turning right, you see merchant, what you want to do
+case 3 1.Trade with him
+case 4 2.Ignore him}
+if case 2 {You are turning left, you see military patrol, what you want to do
+case 5 1. Start talk to them
+case 6 2.Ignore them}
+if case 3 {You choose to trade with merchant
+You see various of items he sell
+case 7 1.I want sword
+case 8 2.I want shield
+case 9 3.I want armor}
+if case 4 {You walk straight ahead, and suddenly someone exclaim your name
+etctec
+}
+
