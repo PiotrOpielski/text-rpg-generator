@@ -1,4 +1,6 @@
- # text-rpg-generator
+# text-rpg-generator
+
+It's simple RPG game (only dialogues) generator, using scripts.
  
  This is not working version, just some concept,
  it's working with max. 9 cases.
